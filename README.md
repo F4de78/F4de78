@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Marco</h1>
-<h3 align="center">Computer Science students at University of Genoa, Italy</h3>
-<br>
-<h3 align="center">CTF "player", Linux and Open source enthusiast</h3>
+
+# $ whoami
+### Hi, I'm Marco
+Computer Science students at University of Genoa, Italy 🖥️🇮🇹
 
 
-## Connect with me:
+CTF "player"🚩
+
+
+## 📫 How to reach me:
 E-mail: **marco.zucca000@gmail.com**
 <p align="left">
  Linkedin:
