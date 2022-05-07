@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### Hi, I'm Marco
 Computer Science students at University of Genoa, Italy 🖥️🇮🇹
 
-
 CTF "player"🚩
 
 
