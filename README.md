@@ -20,6 +20,8 @@ Computer Science students at University of Genoa, Italy 🖥️🇮🇹
 
 CTF "player"🚩
 
+Interested in: IoT, Linux and related stuff, ...
+
 
 ## 📫 How to reach me:
 E-mail: **marco.zucca000@gmail.com**
