@@ -1,6 +1,7 @@
 # `$ whoami`
 ### Hi, I'm Marco
-- Computer Science (software security) students at the University of Genoa, Italy
+- BSc in Computer Science at the University of Genoa, Italy
+- Currently attending Computer Science (software security track) MSc at the University of Genoa, Italy
 - "CTF player"
 
 ## How to reach me:
