@@ -1,7 +1,7 @@
 # `$ whoami`
 ### Hi, I'm Marco
 - Computer Science (software security) students at the University of Genoa, Italy
-- CTF "player"
+- "CTF player"
 
 ## How to reach me:
 E-mail: **marco.zucca000@gmail.com**
