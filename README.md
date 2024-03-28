@@ -3,6 +3,7 @@
 - BSc in Computer Science at the University of Genoa, Italy
 - Currently attending Computer Science (software security track) MSc at the University of Genoa, Italy
 - "CTF player"
+- Interested in cybersecurity, low-level coding and reverse engeneering.
 
 ## How to reach me:
 - **E-mail**: marco.zucca000@gmail.com
